@@ -1,0 +1,2 @@
+# anlprj
+Arabic Morphological Analyzer
